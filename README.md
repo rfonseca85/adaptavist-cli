@@ -11,8 +11,10 @@
 
 
 ### Setup (First time)
-1. Clone the repository: `git clone git@github.com:rfonseca85/adaptavist-cli.git`
-2. Build project running the tests with: `./gradlew clean test build`
+1. Clone the repository: 
+```git clone git@github.com:rfonseca85/adaptavist-cli.git```
+2. Build project running the tests with: 
+```./gradlew clean test build```
 
 ### Starting the CLI
 
