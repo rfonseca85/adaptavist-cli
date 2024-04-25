@@ -26,11 +26,17 @@ cd adaptavist-cli
 
 ### Starting the CLI
 
-Now you can run the adaptavist-cli by executing the following command:
+Now you can run the adaptavist-cli by executing the following command on MAC/Linux:
 
 ```bash
 ./run.sh
 ```
+or for windows users
+
+```bash
+run.bat
+```
+
 
 ## How to use it?
 
