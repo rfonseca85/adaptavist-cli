@@ -15,7 +15,11 @@
 ```bash
 git clone git@github.com:rfonseca85/adaptavist-cli.git
 ```
-2. Build project running the tests with: 
+2. Go to the project folder
+```bash
+cd adaptavist-cli
+```
+3. Build project running the tests with: 
 ```bash
 ./gradlew clean test build
 ```
