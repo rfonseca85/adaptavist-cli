@@ -25,7 +25,7 @@ Now you can run the adaptavist-cli by executing the following command:
 ## How to use it?
 
 
-Once installed and running you should see see a screnn below:
+Once installed and running you should see the screnn below:
 
 ![Screenshot1](/public/Screenshot1.png)
 
