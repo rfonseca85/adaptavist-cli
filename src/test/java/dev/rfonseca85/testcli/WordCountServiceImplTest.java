@@ -1,8 +1,8 @@
-package dev.rfonseca85.adaptavistcli;
+package dev.rfonseca85.testcli;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import dev.rfonseca85.adaptavistcli.service.WordCountServiceImpl;
+import dev.rfonseca85.testcli.service.WordCountServiceImpl;
 
 import java.util.LinkedHashMap;
 

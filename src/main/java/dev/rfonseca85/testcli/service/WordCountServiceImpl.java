@@ -1,4 +1,4 @@
-package dev.rfonseca85.adaptavistcli.service;
+package dev.rfonseca85.testcli.service;
 
 import org.springframework.stereotype.Service;
 import java.util.Map;

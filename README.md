@@ -1,4 +1,4 @@
-# Adaptavist CLI - Rafael Fonseca
+# Test CLI - Rafael Fonseca
   <div>
     <img src="https://img.shields.io/badge/-Spring-black?style=for-the-badge&logoColor=white&logo=spring&color=6DB33F" alt="java" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white&logo=java&color=ED8B00" alt="typescript" />
@@ -13,11 +13,11 @@
 ### Setup (First time)
 1. Clone the repository: 
 ```bash
-git clone git@github.com:rfonseca85/adaptavist-cli.git
+git clone git@github.com:rfonseca85/test-cli.git
 ```
 2. Go to the project folder
 ```bash
-cd adaptavist-cli
+cd test-cli
 ```
 3. Build project running the tests with: 
 ```bash
@@ -26,7 +26,7 @@ cd adaptavist-cli
 
 ### Starting the CLI
 
-Now you can run the adaptavist-cli by executing the following command on MAC/Linux:
+Now you can run the test-cli by executing the following command on MAC/Linux:
 
 ```bash
 ./run.sh
@@ -42,8 +42,6 @@ run.bat
 
 
 Once installed and running you should see the screnn below:
-
-![Screenshot1](/public/Screenshot1.png)
 
 Now you can run the command ```wordcount {filepath} ``` to retrieve the occurences of the same word in a text file
 

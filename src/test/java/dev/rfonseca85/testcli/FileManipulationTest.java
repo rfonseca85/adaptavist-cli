@@ -1,4 +1,4 @@
-package dev.rfonseca85.adaptavistcli;
+package dev.rfonseca85.testcli;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import dev.rfonseca85.adaptavistcli.utils.FileManipulation;
+import dev.rfonseca85.testcli.utils.FileManipulation;
 
 public class FileManipulationTest {
 

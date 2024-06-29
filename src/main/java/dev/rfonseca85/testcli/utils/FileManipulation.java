@@ -1,4 +1,4 @@
-package dev.rfonseca85.adaptavistcli.utils;
+package dev.rfonseca85.testcli.utils;
 
 import java.io.BufferedReader;
 import java.io.File;

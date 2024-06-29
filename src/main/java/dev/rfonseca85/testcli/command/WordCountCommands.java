@@ -1,4 +1,4 @@
-package dev.rfonseca85.adaptavistcli.command;
+package dev.rfonseca85.testcli.command;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.shell.standard.ShellComponent;
@@ -6,8 +6,8 @@ import org.springframework.shell.standard.ShellMethod;
 import org.springframework.shell.table.TableBuilder;
 import org.springframework.shell.table.ArrayTableModel;
 import org.springframework.shell.table.BorderStyle;
-import dev.rfonseca85.adaptavistcli.service.WordCountService;
-import dev.rfonseca85.adaptavistcli.utils.FileManipulation;
+import dev.rfonseca85.testcli.service.WordCountService;
+import dev.rfonseca85.testcli.utils.FileManipulation;
 import java.util.LinkedHashMap;
 
 /**

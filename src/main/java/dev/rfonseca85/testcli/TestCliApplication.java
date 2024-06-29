@@ -1,13 +1,13 @@
-package dev.rfonseca85.adaptavistcli;
+package dev.rfonseca85.testcli;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AdaptavistCliApplication {
+public class TestCliApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AdaptavistCliApplication.class, args);
+		SpringApplication.run(TestCliApplication.class, args);
 	}
 
 }
