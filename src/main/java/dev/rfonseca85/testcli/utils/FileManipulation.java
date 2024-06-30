@@ -13,7 +13,7 @@ import java.io.IOException;
  * If any of these checks fail, it throws a RuntimeException.
  * 
  * @author Rafael Fonseca
- * @since 2024-04-24
+ * @since 2024-04-25
  */
 public class FileManipulation {
 

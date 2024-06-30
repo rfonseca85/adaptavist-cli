@@ -10,7 +10,7 @@
 ## How to use this repository?
 
 
-### Setup (First time)
+### Setup (First timeeee)
 1. Clone the repository: 
 ```bash
 git clone git@github.com:rfonseca85/test-cli.git
